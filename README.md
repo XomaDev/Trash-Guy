@@ -1,4 +1,3 @@
-a
 # Trash Guy ️    Z<(^_^ <) ac
 
 Download .jar library from releases or from the folder.
