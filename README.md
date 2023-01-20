@@ -1,4 +1,5 @@
 # Trash Guy ️    Z<(^_^ <) ac
+https://zac.cy/trashguy/?trash
 
 Download .jar library from releases or from the folder.
 # How to use ? It's EZ
